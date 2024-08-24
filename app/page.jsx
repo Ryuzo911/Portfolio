@@ -20,7 +20,7 @@ const Home = () => {
                 Gue adalah software engineer yang mendalami bidang backend dan gue juga berprofesi sebagai barista part time di salah satu coffee shop.
               </p>
               <div className="flex flex-col xl:flex-row items-center gap-8">
-                <Button variant="outline" size="lg" className="uppercase flex items-center gap-2" href="/assets/CV_Muhammad_Rizal.pdf">
+                <Button variant="outline" size="lg" className="uppercase flex items-center gap-2" href="/assets/CV_Muhammad_Rizal.pdf" passHref>
                   <span>Download CV</span>
                   <FiDownload className="text-xl"/>
                 </Button>
