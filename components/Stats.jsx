@@ -8,11 +8,11 @@ const stats = [
         text: "Pengalaman",
     },
     {
-        num: 0,
+        num: 1,
         text: "Project selesai",
     },
     {
-        num: 0,
+        num: 2,
         text: "Bahasa dikuasai",
     },
     {
